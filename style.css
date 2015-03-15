@@ -1,6 +1,6 @@
 
                .rammi{
-                   border: 1px solid yellow;
+                   border: 1px solid blue;
                    padding: 1em; 
                    box-sizing: border-box;
                    -moz-box-sizing: border-box;
@@ -102,7 +102,7 @@ appears on the left side of the page.
     left: 0;
     bottom: 0;
     z-index: 1000; /* so the menu or its navicon stays above all content */
-    background: #191818;
+    background: #333131;
     overflow-y: auto;
     -webkit-overflow-scrolling: touch;
 }
